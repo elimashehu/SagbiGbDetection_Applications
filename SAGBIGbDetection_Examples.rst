@@ -1,7 +1,7 @@
 Examples from Algebraic Statistics
 ---------------------------------------
 
-We provide the code for the example on the Sullivant-Talaska ideal :math:`I_5`. First, we have to install all needed packages, including SagbiGbDetection then load our *pkg* and define :math:`I_5`. Our code is written in the programming language ``Julia``. 
+We provide the code for the example on the Sullivant-Talaska ideal :math:`I_4`. First, we have to install all needed packages, including SagbiGbDetection then load our *pkg* and define :math:`I_4`. Our code is written in the programming language ``Julia``. 
 
 .. code-block:: Julia
 
