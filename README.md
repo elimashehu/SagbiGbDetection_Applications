@@ -7,7 +7,7 @@ This page features the source code and explanations for the paper: "SAGBI AND GR
 
 - Viktoriia Borovik, Timothy Duff, and Elima Shehu
 - SAGBI AND GROEBNER BASES DETECTION
-- ARXIV: [https://arxiv.org/abs/](https://arxiv.org/pdf/2404.16796)
+- ARXIV: [https://arxiv.org/abs/2404.16796](https://arxiv.org/pdf/2404.16796)
 
 **Abstract of the paper.** We introduce a *SAGBI detection* algorithm, analogous to the *Gröbner basis detection* algorithm of Gritzmann and Sturmfels. We also present the accompanying package `SagbiGbDetection` implemented in both `Macaulay2` and `Julia`. The package provides functions to find a term order $\omega$ such that the given generators of an ideal form a Gröbner basis or the given generators of a finitely generated subalgebra of a polynomial ring are the SAGBI basis with respect to $\omega$. In addition, we investigate the complexity and provide several benchmarks that showcase the practical application of this package.
 
